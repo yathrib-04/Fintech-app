@@ -83,3 +83,6 @@ coverage.xml
 # Oracle
 *.ora
 *.dmp
+
+# Demo scripts (development/testing only)
+demo_*.py
