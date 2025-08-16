@@ -86,3 +86,8 @@ coverage.xml
 
 # Demo scripts (development/testing only)
 demo_*.py
+
+# Database configuration files
+database_config_template.txt
+*.env
+.env
