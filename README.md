@@ -28,11 +28,6 @@ Fintech-app/
 └── README.md             # This file
 ```
 
-## Tasks
-1. **Task 1**: Data Collection and Preprocessing
-2. **Task 2**: Sentiment and Thematic Analysis  
-3. **Task 3**: Database Storage in Oracle
-4. **Task 4**: Insights and Recommendations
 
 ## Setup Instructions
 1. Clone the repository
